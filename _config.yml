@@ -1,3 +1,5 @@
 title: Aziel Freitas
 # theme: jekyll-theme-modernist
+plugins:
+  - jekyll-remote-theme
 remote_theme: Xiao-Chenguang/minimal-light
